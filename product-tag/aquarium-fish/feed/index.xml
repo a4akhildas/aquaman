@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>aquarium fish &#8211; Aquaman</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get the best quality fish</description>
+	<lastBuildDate>Mon, 22 Feb 2021 11:38:24 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/02/Betta-Logo.jpg</url>
+	<title>aquarium fish &#8211; Aquaman</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Bala Shark</title>
+		<link>./../../../product/bala-shark/index.html</link>
+					<comments>./../../../product/bala-shark/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Mon, 22 Feb 2021 11:18:16 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/aquaman/?post_type=product&#038;p=329</guid>
+
+					<description><![CDATA[The bala shark, Balantiocheilos melanopterus, also known as the tricolor shark, tricolor sharkminnow, silver shark, or shark minnow, is a fish of the family Cyprinidae, and is one of the two species in the genus Balantiocheilos.]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-330" src="http://localhost/aquaman/wp-content/uploads/2021/02/bala.jpg" alt="" width="1000" height="633" /><img loading="lazy" class="alignnone size-full wp-image-331" src="http://localhost/aquaman/wp-content/uploads/2021/02/Flickriver_-noor_hilmis-photos-tagged-with-ikan.jpg" alt="" width="500" height="500" /> <img loading="lazy" class="alignnone size-medium wp-image-332" src="http://localhost/aquaman/wp-content/uploads/2021/02/Balantiocheilos-melanopterus-__-aquarium-fish_info.jpg" alt="" width="300" height="200" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/bala-shark/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

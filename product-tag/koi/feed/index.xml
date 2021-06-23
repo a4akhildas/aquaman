@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>koi &#8211; Aquaman</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get the best quality fish</description>
+	<lastBuildDate>Thu, 25 Feb 2021 12:02:25 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/02/Betta-Logo.jpg</url>
+	<title>koi &#8211; Aquaman</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Koi Carp</title>
+		<link>./../../../product/koi-carp/index.html</link>
+					<comments>./../../../product/koi-carp/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2021 11:35:29 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/aquaman/?post_type=product&#038;p=412</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-422" src="http://localhost/aquaman/wp-content/uploads/2021/02/Bekko-Koi-Fish.jpg" alt="" width="1000" height="694" /><img loading="lazy" class="alignnone size-full wp-image-413" src="http://localhost/aquaman/wp-content/uploads/2021/02/koi-carp-aquarium-fish-500x500-1.jpg" alt="" width="500" height="500" /><img loading="lazy" class="alignnone size-full wp-image-414" src="http://localhost/aquaman/wp-content/uploads/2021/02/4af6538e900cb5f2e8dd1d8dddc6a2ef.jpg" alt="" width="400" height="600" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/koi-carp/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

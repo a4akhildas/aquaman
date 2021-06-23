@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>red fish &#8211; Aquaman</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get the best quality fish</description>
+	<lastBuildDate>Thu, 25 Feb 2021 11:55:31 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/02/Betta-Logo.jpg</url>
+	<title>red fish &#8211; Aquaman</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Full Red Platy</title>
+		<link>./../../../product/full-red-platy/index.html</link>
+					<comments>./../../../product/full-red-platy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Thu, 25 Feb 2021 11:55:26 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/aquaman/?post_type=product&#038;p=430</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-431" src="http://localhost/aquaman/wp-content/uploads/2021/02/platy_red_wag_100517a1_w0480.jpg" alt="" width="480" height="384" /> <img loading="lazy" class="alignnone size-medium wp-image-432" src="http://localhost/aquaman/wp-content/uploads/2021/02/d2da540aa30a0abd931756f6716b9c6a.jpg" alt="" width="300" height="240" /> <img loading="lazy" class="alignnone size-medium wp-image-433" src="http://localhost/aquaman/wp-content/uploads/2021/02/75e5f7d4cd046e5065a195947eb5a5c3.jpg" alt="" width="300" height="196" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/full-red-platy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Albino Full Red Guppy</title>
+		<link>./../../../product/albino-full-red-guppy/index.html</link>
+					<comments>./../../../product/albino-full-red-guppy/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 06:58:23 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/aquaman/?post_type=product&#038;p=313</guid>
+
+					<description><![CDATA[These are rare full red albino guppies imported from Thailand. They are simply gorgeous, the males are fully bright red with flowing tails and dorsal fins.
+They will pop in any aquarium. These Albino guppies shows the recessive albino phenotype trait.]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-314" src="http://localhost/aquaman/wp-content/uploads/2021/02/Hull-Aquatics-Home-of-High-Quaility-Tropical-Fish.jpg" alt="" width="500" height="345" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/albino-full-red-guppy/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>

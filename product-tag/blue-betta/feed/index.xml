@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>blue betta &#8211; Aquaman</title>
+	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
+	<link>./../../../index.html</link>
+	<description>Get the best quality fish</description>
+	<lastBuildDate>Tue, 16 Feb 2021 09:20:06 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>./../../../wp-content/uploads/2021/02/Betta-Logo.jpg</url>
+	<title>blue betta &#8211; Aquaman</title>
+	<link>./../../../index.html</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>Blue Halfmoon Betta Fish</title>
+		<link>./../../../product/blue-halfmoon-betta-fish/index.html</link>
+					<comments>./../../../product/blue-halfmoon-betta-fish/index.html#respond</comments>
+		
+		<dc:creator><![CDATA[anonymous]]></dc:creator>
+		<pubDate>Tue, 16 Feb 2021 09:20:01 +0000</pubDate>
+				<guid isPermaLink="false">http://localhost/aquaman/?post_type=product&#038;p=322</guid>
+
+					<description><![CDATA[Blue Male Veiltail Betta is also known as a Siamese Fighting Fish. Known best for their beautiful fins and color. Bettas can breathe from their labyrinth organ which enables the fish to breathe from the surface]]></description>
+										<content:encoded><![CDATA[<p><img loading="lazy" class="alignnone size-full wp-image-259" src="http://localhost/aquaman/wp-content/uploads/2021/02/602a28de5da0c.jpg" alt="" width="1000" height="633" /><img loading="lazy" class="alignnone size-full wp-image-263" src="http://localhost/aquaman/wp-content/uploads/2021/02/602a29aa9bb64.jpg" alt="" width="1000" height="675" /></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>./../../../product/blue-halfmoon-betta-fish/feed/index.html</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
